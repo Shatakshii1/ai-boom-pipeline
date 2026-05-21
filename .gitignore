@@ -1,0 +1,6 @@
+ 
+*.csv 
+*.xlsx 
+*.json 
+.DS_Store 
+__pycache__/ 
