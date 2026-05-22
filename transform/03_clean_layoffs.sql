@@ -1,4 +1,3 @@
-%sql
 CREATE TABLE transform_layoffs.clean_layoffs AS
 SELECT 
   Nr,
